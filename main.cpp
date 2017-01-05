@@ -53,7 +53,7 @@ for(int i=0; i<3; i++) {
 }
 
 }
-//*This is under-Development project to create a small encyclopidia about Universe;
+//*This is under-Development project to create a small encyclopedia about Universe;
 
 
 
